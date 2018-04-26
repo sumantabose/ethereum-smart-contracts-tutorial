@@ -5,7 +5,7 @@
 #### Repository compiled by: [Sumanta Bose](https://sumantabose.github.io)
 ---
 
-**About the course**
+**About the tutorial series**
 
 This tutorial series follows the content in this [coursetro course](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners). It is 100% free and you're going to learn how to create and deploy ethereum smart contracts. Smart contracts allow you to create decentralized apps that can harness the power of the blockchain for a wide variety of use cases.
 
