@@ -19,9 +19,9 @@ The bulk of this course is going to be very hands-on with very little slides. I 
 
 **Course Curriculum**
 
-1. What are Smart Contracts and Decentralized Apps? [05:59]
-Written Lesson: [Smart Contracts and Decentralized Apps 101](https://coursetro.com/posts/code/98/Smart-Contracts-and-Decentralized-Apps-101)
-Video Lesson:
+1. What are Smart Contracts and Decentralized Apps? [05:59]\
+Written Lesson: [Smart Contracts and Decentralized Apps 101](https://coursetro.com/posts/code/98/Smart-Contracts-and-Decentralized-Apps-101)\
+Video Lesson:\
 [![](http://img.youtube.com/vi/a9_HPYlhCug/0.jpg)](http://www.youtube.com/watch?v=a9_HPYlhCug "")
 
 2. Variables and Types [14:05]
