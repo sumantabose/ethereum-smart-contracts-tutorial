@@ -58,6 +58,6 @@ Video Lesson:\
 8. Finishing the Web3 UI [08:33]\
 Written Lesson: [Finishing our Smart Contract and Using it on Ropsten](https://coursetro.com/posts/code/104/Finishing-our-Smart-Contract-and-Using-it-on-Ropsten)\
 Video Lesson:\
-[![](http://img.youtube.com/vi/gfXewa4xmYE/0.jpg)](http://www.youtube.com/watch?v=gfXewa4xmYE "")
+[![](http://img.youtube.com/vi/d_0LYO7EByk/0.jpg)](http://www.youtube.com/watch?v=d_0LYO7EByk "")
 ---
 #### Hope you find the tutorial useful. Cheers!
