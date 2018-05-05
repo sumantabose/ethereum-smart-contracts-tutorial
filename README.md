@@ -7,7 +7,7 @@
 
 **About the tutorial series**
 
-This tutorial series follows the content in this [coursetro course](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners). It is 100% free and you're going to learn how to create and deploy ethereum smart contracts. Smart contracts allow you to create decentralized apps that can harness the power of the blockchain for a wide variety of use cases.
+This tutorial series follows the content in this [coursetro course](https://coursetro.com/courses/20/Developing-Ethereum-Smart-Contracts-for-Beginners). It will teach you to create and deploy ethereum [*smart contracts*](https://en.wikipedia.org/wiki/Smart_contract). Smart contracts allow you to create decentralized apps that can harness the power of the blockchain for a wide variety of use cases.
 
 This course assumes you have no prior experience with creating smart contracts. You're going to go from absolute beginner to an intermediate understanding in a very fast amount of time.
 
